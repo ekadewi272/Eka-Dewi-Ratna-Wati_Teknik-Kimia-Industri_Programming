@@ -1,0 +1,6 @@
+# Inni adalah file buat ignore gituhub
+
+# Semua yang berakhiran .exe tidak perlu untuk diup ke github
+*.exe
+
+.vscode
